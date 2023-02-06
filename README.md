@@ -2,7 +2,7 @@
 
 Team name: TSM(Three SwordsMan)
 
-RoboCup Soccer 2D Simulator League（https://rcsoccersim.github.io/）
+RoboCup Soccer 2D Simulation League（https://rcsoccersim.github.io/）
 
 The first robot competition of Zhejiang University in 2006
 
@@ -33,11 +33,14 @@ b. robot competition of Zhejiang University
 3. competition results
 
    Beast, Champion
+   
    2046, Runner-up
+   
    skywalker, third place
+   
    TSM, fourth place
    
-
+   
 4. about the source code
 
    The code in the source folder contained all of the *.cpp and *.h of the team TSM in the final competition. However, more than 15 years have passed. The language of C/C++, related libraries and tools have some changes, so it is impossible to compile the souce code and run it directly. The source code only contained the agents. 
