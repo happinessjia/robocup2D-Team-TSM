@@ -1,6 +1,6 @@
 # robocup-2D-Team-TSM
 
-Team name: TSM(Three SwordsMan)
+## Team name: TSM(Three SwordsMan)
 
 RoboCup Soccer 2D Simulation League（https://rcsoccersim.github.io/）
 
@@ -8,7 +8,7 @@ The first robot competition of Zhejiang University in 2006
 
 1. Basic information about the competition
 
-a. Robocup
+  + a. Robocup
 
 RoboCup(Robot World Cup) is a robot competition, launched in 1990s. The ultimate goal of the RoboCup Initiative to be stated as follows:
 
@@ -18,7 +18,7 @@ There are several different kinds of robot soccer competition in RoboCup, includ
 
    For more information, please visit robocup.org(https://www.robocup.org/)
 
-   b. robot competition of Zhejiang University
+  + b. robot competition of Zhejiang University
 
 Zhejiang University organized the first robot competition in the year of 2005-2006. The competition was organized by the robotics research lab in College of Control Science and Engineering. This competition was focusing on the robocup 2D simulation league, including 7VS7 and 1VS1. That was a simplized competition compared with the formal robocup 2D simulation league.
 
