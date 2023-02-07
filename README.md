@@ -16,16 +16,12 @@ The first robot competition of Zhejiang University in 2006 <img decoding="async"
   + Robocup
   
   
-    RoboCup(Robot World Cup) is a robot competition, launched in 1990s. The ultimate goal of the RoboCup  
-    Initiative to be stated as follows:  
+    RoboCup(Robot World Cup) is a robot competition, launched in 1990s. The ultimate goal of the RoboCup Initiative to be stated as follows:  
+    
+    ***"By the middle of the 21st century, a team of fully autonomous humanoid robot soccer players shall win a soccer game, complying with the official rules of FIFA, against the winner of the most recent World Cup "***  
     
     
-    ***"By the middle of the 21st century, a team of fully autonomous humanoid robot soccer players shall win  
-    a soccer game, complying with the official rules of FIFA, against the winner of the most recent World Cup "***  
-    
-    
-    There are several different kinds of robot soccer competition in RoboCup, including Simulation, Small Size,  
-    Middle Size, Standard Platform, Humanoid.
+    There are several different kinds of robot soccer competition in RoboCup, including Simulation, Small Size, Middle Size, Standard Platform, Humanoid.
   
   
     For more information, please visit [robocup.org](https://www.robocup.org/)
@@ -33,10 +29,7 @@ The first robot competition of Zhejiang University in 2006 <img decoding="async"
   + robot competition of Zhejiang University
   
   
-    Zhejiang University organized the first robot competition in the year of 2005-2006. The competition was  
-    organized by the robotics research lab in College of Control Science and Engineering. This competition  
-    was focusing on the robocup 2D simulation league, including 7VS7 and 1VS1. That was a simplized competition  
-    compared with the formal robocup 2D simulation league.  
+    Zhejiang University organized the first robot competition in the year of 2005-2006. The competition was organized by the robotics research lab in College of Control Science and Engineering. This competition was focusing on the robocup 2D simulation league, including 7VS7 and 1VS1. That was a simplized competition compared with the formal robocup 2D simulation league.  
     
     For more information, please visit the file [浙江大学第一届机器人大赛规则](https://github.com/happinessjia/robocup2D-Team-TSM/blob/main/浙江大学第一届机器人大赛规则.doc)。
 
