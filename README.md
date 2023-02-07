@@ -36,13 +36,13 @@ The first robot competition of Zhejiang University in 2006
     was focusing on the robocup 2D simulation league, including 7VS7 and 1VS1. That was a simplized competition  
     compared with the formal robocup 2D simulation league.  
     
-    For more information, please visit the file "浙江大学第一届机器人大赛规则.doc"。
+    For more information, please visit the file [浙江大学第一届机器人大赛规则](https://github.com/happinessjia/robocup2D-Team-TSM/blob/main/浙江大学第一届机器人大赛规则.doc)。
 
 2. team TSM (Three SwordsMan)
 
    TSM was one of the teams participating the first robot competition of Zhejiang University. I(Jiajia Zheng) was the team leader. Our teammates were Ming Li and someone who left the team during the preparing time. Our performance was pretty excellent in the competition leaderboard. At last, we got the fourth place and won the first prize in the final official competition. Ming Li and I were joined the robotics research lab after the competition,then preparing for the Robocup China Open 2006.
    
-   For more information, please visit the file "参赛感言.txt"
+   For more information, please visit the file [参赛感言](https://github.com/happinessjia/robocup2D-Team-TSM/blob/main/参赛感言.txt)
 
 3. competition results
 
@@ -54,7 +54,7 @@ The first robot competition of Zhejiang University in 2006
    
    TSM, fourth place
    
-   For more information, please visit the file "获奖名单.xls"
+   For more information, please visit the file [获奖名单](https://github.com/happinessjia/robocup2D-Team-TSM/blob/main/获奖名单.xls)
 
 4. about the source code
 
