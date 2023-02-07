@@ -4,8 +4,10 @@
 
 The first robot competition of Zhejiang University in 2006  
 
-[RoboCup Soccer 2D Simulation League](https://rcsoccersim.github.io/)
+[RoboCup Soccer 2D Simulation League](https://rcsoccersim.github.io/)  
 
+
+<img decoding="async" src="https://github.com/happinessjia/robocup2D-Team-TSM/blob/main/RoboCup-2D-Soccer-Simulation-Field.jpg" width="50%">
 
 ---------
 
