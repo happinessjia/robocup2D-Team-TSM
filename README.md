@@ -45,14 +45,14 @@ The first robot competition of Zhejiang University in 2006
    For more information, please visit the file [参赛感言](https://github.com/happinessjia/robocup2D-Team-TSM/blob/main/参赛感言.txt)
 
 3. competition results
-
-   Beast, Champion
-   
-   2046, Runner-up
-   
-   skywalker, third place
-   
-   TSM, fourth place
+  
+  
+    |  Team   | Captain|Award  |
+    |  ----  | ----|----  |
+    | Beast  | Yikun Tao|Champion |
+    | 2045  |Hui Shen |Runner-up |
+    | SkyWalker | Weiwei Hou| 3rd Place |
+    | TSM  |Jiajia Zheng |4th Place |
    
    For more information, please visit the file [获奖名单](https://github.com/happinessjia/robocup2D-Team-TSM/blob/main/获奖名单.xls)
 
