@@ -1,4 +1,4 @@
-# robocup-2D-Team-TSM
+# RoboCup Soccer 2D Simulation League  <u>Team-TSM</u>
 
 ## Team name: TSM(Three SwordsMan)
 
@@ -40,7 +40,7 @@ The first robot competition of Zhejiang University in 2006
 
 2. team TSM (Three SwordsMan)
 
-   TSM was one of the teams participating the first robot competition of Zhejiang University. I(Jiajia Zheng) was the team leader. Our teammates were Ming Li and someone who left the team during the preparing time. Our performance was pretty excellent in the competition leaderboard. At last, we got the fourth place and won the first prize in the final official competition. Ming Li and I were joined the robotics research lab after the competition,then preparing for the Robocup China Open 2006.
+   TSM was one of the teams participating in the first robot competition of Zhejiang University. I(Jiajia Zheng) was the team leader. Our teammates were Ming Li and someone who left the team during the preparing time. Our performance was pretty excellent in the competition leaderboard. At last, we got the fourth place and won the first prize in the final official competition. Ming Li and I were joined the robotics research lab after the competition,then preparing for the Robocup China Open 2006.
    
    For more information, please visit the file [参赛感言](https://github.com/happinessjia/robocup2D-Team-TSM/blob/main/参赛感言.txt)
 
@@ -64,8 +64,8 @@ Server and moniter are provided by the Robocup Official Organization.
 ---------------   
 Note: 
    
-   If you want to learn and participate the robocup soccer 2D simulation league, 
-   Please refer to the teams who participate the lastest Robocup competition.
+   If you want to learn and participate in the robocup soccer 2D simulation league, 
+   Please refer to the teams who participate in the lastest Robocup competition.
    I could only provide the basic information and ideas of our team. 
    
 ------------
